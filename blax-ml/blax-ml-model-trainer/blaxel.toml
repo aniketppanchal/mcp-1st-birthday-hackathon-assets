@@ -1,0 +1,6 @@
+name = "blax-ml-model-trainer"
+type = "sandbox"
+
+[runtime]
+generation = "mk3"
+memory = 4096

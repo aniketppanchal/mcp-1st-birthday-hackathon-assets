@@ -1,0 +1,10 @@
+name = "blax-ml-model-server"
+type = "sandbox"
+
+[runtime]
+generation = "mk3"
+memory = 4096
+[[runtime.ports]]
+name = "gradio"
+target = 7860
+protocol = "tcp"
